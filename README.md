@@ -16,27 +16,3 @@ Blame                    196             (15.9%)
 Total                    1,232           (100%)
 
 
-@inproceedings{jin-aletras-2021-modeling,
-    
-    title = "Modeling the Severity of Complaints in Social Media",
-    
-    author = "Jin, Mali  and
-      Aletras, Nikolaos",
-    
-    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
-    
-    month = jun,
-    
-    year = "2021",
-    
-    address = "Online",
-    
-    publisher = "Association for Computational Linguistics",
-    
-    url = "https://aclanthology.org/2021.naacl-main.180",
-    
-    doi = "10.18653/v1/2021.naacl-main.180",
-    
-    pages = "2264--2274",
-
-}
